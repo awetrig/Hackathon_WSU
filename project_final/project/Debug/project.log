@@ -1,0 +1,22 @@
+﻿  function.c
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(26,10): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(698,21): warning C4047: 'return': 'int' differs in levels of indirection from 'int (__cdecl *)(void)'
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(709,21): warning C4047: 'return': 'int' differs in levels of indirection from 'int (__cdecl *)(void)'
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(720,21): warning C4047: 'return': 'int' differs in levels of indirection from 'int (__cdecl *)(void)'
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(733,21): warning C4047: 'return': 'int' differs in levels of indirection from 'int (__cdecl *)(void)'
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(745,21): warning C4047: 'return': 'int' differs in levels of indirection from 'int (__cdecl *)(void)'
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(783,23): warning C4098: 'healthcare': 'void' function returning a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(791,23): warning C4098: 'healthcare': 'void' function returning a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(797,22): warning C4098: 'healthcare': 'void' function returning a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(826,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(253): warning C4715: 'Performance': not all control paths return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(325): warning C4715: 'Presentation': not all control paths return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(151): warning C4715: 'Exhibition': not all control paths return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(199): warning C4715: 'Lecture': not all control paths return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(358): warning C4715: 'Recreational_Games': not all control paths return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(595): warning C4716: 'food_shopping': must return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(568): warning C4715: 'Academic_buildings': not all control paths return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(670): warning C4715: 'espresso_snacks': not all control paths return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(753): warning C4715: 'dining_func': not all control paths return a value
+C:\Users\ahmet\Desktop\final_hack\project\project\function.c(410): warning C4715: 'Workshop_Seminar': not all control paths return a value
+  project.vcxproj -> C:\Users\ahmet\Desktop\final_hack\project\Debug\project.exe
